@@ -5,17 +5,17 @@
 ### Static Lung Volumes Prediction
 
 [Exploratory Data Analysis](/sample_page)
---
+----
 <img src="images/transferir.png?raw=true"/>
 
 ---
 [Regression](/pdf/sample_presentation.pdf)
---
+----
 <img src="images/transferir (1).png?raw=true"/>
 
 ---
 [Classification](http://example.com/)
---
+----
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -23,12 +23,15 @@
 ### Cardiopulmonary Exercise Testing - Ventilatory Thresholds Identification
 
 [Exploratory Data Analysis](/sample_page)
+----
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Ventilatory Thresholds Automatic Identification](/pdf/sample_presentation.pdf)
+----
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
