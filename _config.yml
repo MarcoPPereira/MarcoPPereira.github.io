@@ -1,10 +1,10 @@
 title: Marco Pereira # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>Respiratoy Physiologist<br>
   Second description 
-  <br><br>
+  <br>Data Science Enthusiast<br>
   <a href="https://www.linkedin.com/in/marco-pereira-523b6252/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
