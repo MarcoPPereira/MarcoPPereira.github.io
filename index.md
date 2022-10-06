@@ -29,6 +29,15 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
+### CPAP Adherence Prediction 
+
+[Exploratory Data Analysis](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Classification](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
