@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Static Lung Volumes Prediction
+## Static Lung Volumes Prediction
 
 [Exploratory Data Analysis](/sample_page)
 ----
@@ -20,7 +20,7 @@
 
 ---
 
-### Cardiopulmonary Exercise Testing - Ventilatory Thresholds Identification
+## CPET - Ventilatory Thresholds Identification
 
 [Exploratory Data Analysis](/sample_page)
 ----
