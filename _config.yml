@@ -2,9 +2,9 @@ title: Marco Pereira # your name (or website title) here
 logo: "C:\Users\marco\OneDrive\Área de Trabalho\MP.jpg" # your photo (or logo) here
 description: BlaBlaBla # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>BlaBlaBla
+  BlaBlaBla
   Second description 
-  <br><br>BlaBlaBla
+  BlaBlaBla
   <a href="https://www.linkedin.com/in/marco-pereira-523b6252/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
