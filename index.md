@@ -4,7 +4,7 @@
 
 ## Static Lung Volumes Prediction
 
-[Exploratory Data Analysis](/sample_page)
+[Exploratory Data Analysis](/sample2)
 ----
 <img src="images/transferir.png?raw=true"/>
 
