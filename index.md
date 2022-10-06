@@ -20,6 +20,8 @@
 
 ---
 
+---
+
 ## CPET - Ventilatory Thresholds Identification
 
 [Exploratory Data Analysis](/sample_page)
