@@ -11,7 +11,7 @@
 ---
 [Regression](/pdf/sample_presentation.pdf)
 ----
-<img src="images/transferir (3).png?raw=true"/>
+<img src="images/transferir (4).png?raw=true"/>
 
 ---
 [Classification](http://example.com/)
