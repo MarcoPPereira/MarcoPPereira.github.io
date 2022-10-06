@@ -11,12 +11,12 @@
 ---
 [Regression](/pdf/sample_presentation.pdf)
 ----
-<img src="images/transferir (1).png?raw=true"/>
+<img src="images/transferir (3).png?raw=true"/>
 
 ---
 [Classification](http://example.com/)
 ----
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/transferir (2).png?raw=true"/>
 
 ---
 
